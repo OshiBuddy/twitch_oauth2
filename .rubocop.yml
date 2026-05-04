@@ -36,7 +36,7 @@ Metrics/BlockLength:
     - spec/**/*.rb
 
 AllCops:
-  TargetRubyVersion: 3.0
+  TargetRubyVersion: 4.0
   NewCops: enable
 
 RSpec/SpecFilePathFormat:

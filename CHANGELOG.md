@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+*   Add Ruby 4.0 to CI.
+*   Support Ruby 4.x.
+*   Raise minimum supported Ruby to 3.2.
+*   Update `faraday-parse_dates` dependency to `~> 1.0`.
+*   Relax development Bundler requirement for Ruby 4.
+*   Update development `gem_toys` dependency for Ruby 4.
+*   Update development `toys` dependency for Ruby 4.
+*   Add `mise.toml` to pin local Ruby runtime.
+
 ## 0.5.0 (2023-07-25)
 
 *   Introduce `Tokens` object.
